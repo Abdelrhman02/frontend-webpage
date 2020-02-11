@@ -84,12 +84,13 @@ input[type=email]{
 }
 button{
     display: block;
-    background-color: rgb(21, 110, 226);
+    background-color: rgb(55, 120, 206);
     border-color: #f4f4f4;
     color: #f4f4f4;
-    margin: auto;
+    margin: 20px 0 22 40%;
     width: 20%;
     height: 30px;
+    border-radius: 5%;
 
 }
 .h002{
@@ -114,6 +115,7 @@ button{
         width: 100%;
         margin:  auto;
         height: 37px;
+        
     
     }
     
@@ -141,9 +143,8 @@ button{
         float: none;
         display: block;
         text-align: left;
-        background-color: rgb(11, 104, 226);
-        border: #f4f4f4;
-        color: #f4f4f4;
+        background-color: rgb(104, 170, 209);
+       
         margin-top: 5px;
         width: 30%;
         max-width: 800px;
